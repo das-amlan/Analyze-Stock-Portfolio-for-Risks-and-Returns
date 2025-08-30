@@ -1,5 +1,7 @@
 # Analyze Stock Portfolio for Risks and Returns
 
+![trader](trader.jpg)
+
 ## Project Description
 This project explores Modern Portfolio Theory (MPT) by analyzing historical stock price data for the FAANG companies (Meta/Facebook, Apple, Amazon, Netflix, and Google) from 2020 to 2023. The goal is to understand how to balance risk and return in a stock portfolio and identify optimal asset allocations using mean-variance optimization.
 
