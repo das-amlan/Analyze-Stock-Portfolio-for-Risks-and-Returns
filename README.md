@@ -15,6 +15,7 @@ The notebook demonstrates the following:
 * Identification of the minimum volatility portfolio using mean-variance optimization.
 * Identification of the portfolio that maximizes the Sharpe Ratio using mean-variance optimization.
 * Visualization of stock prices over time.
+  
 The results highlight the difference in risk and return profiles between a simple equally-weighted portfolio and portfolios optimized for minimum volatility or maximum Sharpe Ratio.
 
 ## Key Concepts
